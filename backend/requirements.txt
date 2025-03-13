@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+alembic
+pyjwt
+jwt
+python-multipart
+email-validator
+passlib
+bcrypt
